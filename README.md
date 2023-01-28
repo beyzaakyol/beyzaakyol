@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [e-ticaret](https://github.com/beyzaakyol/e-ticaret)
 
-- 🌱 I’m currently learning **PHP**
-
 - 📫 How to reach me **h.beyzaakyol99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
